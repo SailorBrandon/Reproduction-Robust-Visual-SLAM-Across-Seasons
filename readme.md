@@ -1,7 +1,10 @@
 ## Reproduction: Robust Visual SLAM Across Seasons
 
-### Auther
+### Author
 Group 73
+
 Shaohang Han 
+
 Ranbao Deng
+
 Xianzhong Liu
