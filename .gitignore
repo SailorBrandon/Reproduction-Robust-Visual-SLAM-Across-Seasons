@@ -1,3 +1,4 @@
 *.git/
 *.idea/
 *_pycache_/
+_pycache_/
