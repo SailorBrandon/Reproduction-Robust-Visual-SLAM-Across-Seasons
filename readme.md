@@ -6,5 +6,5 @@ PyTorch, scikit-image, alexnet-pytorch
 ## Usage
 Please kindly check `image_matching/pytorch_vision_googlenet.ipynb` for our code.
 
-### Author
+## Author
 Xianzhong Liu, Ranbao Deng, Shaohang Han
