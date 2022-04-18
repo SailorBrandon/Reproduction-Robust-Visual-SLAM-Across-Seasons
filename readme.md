@@ -1,6 +1,6 @@
 # Reproduction: Robust Visual SLAM Across Seasons
 
-This repos contains a reproduction of the paper [Robust Visual SLAM Across Seasons](https://www.researchgate.net/publication/308862166_Robust_visual_SLAM_across_seasons). For detailed information, please refer to our [wiki](https://github.com/SailorBrandon/Reproduction-Robust-Visual-SLAM-Across-Seasons/wiki).
+This repo contains a reproduction of the paper [Robust Visual SLAM Across Seasons](https://www.researchgate.net/publication/308862166_Robust_visual_SLAM_across_seasons). For detailed information, please refer to our [wiki](https://github.com/SailorBrandon/Reproduction-Robust-Visual-SLAM-Across-Seasons/wiki).
 
 ## Dependency
 PyTorch, scikit-image, alexnet-pytorch
